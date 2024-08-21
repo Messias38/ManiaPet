@@ -1,1 +1,1 @@
-# ManiaPet
+# Petshop
